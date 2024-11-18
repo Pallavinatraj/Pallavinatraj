@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pallavi Natraj
-- 👀 I’m Fullstack Developer
-- 🌱 I’m currently learning Frontend Devolping
+- 👀 Aspiring Fullstack Developer
+
 - 📫 How to reach me ...pallavinatraj31@gmail.com
 
 
