@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 👯 I’m looking to collaborate on **• Learning Path Tracker — React + Node app that gamifies your course progress with streaks, badges, and smart recommendations 🌱**
-
 - 👨‍💻 All of my projects are available at [https://tiny-yeot-00b780.netlify.app/](https://tiny-yeot-00b780.netlify.app/)
 
 - 📫 How to reach me **pallavinatraj31@gmail.com**
